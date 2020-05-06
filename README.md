@@ -1,8 +1,8 @@
 # LAB_11
 ## Dificultati initiale
-* Problema mea era ca in pom.xml aparea cu rosu <artifactId>spring-boot-starter-web</artifactId>, iar la compilare toate clasele care au in nume Spring spunea ca nu exista
+* Problema mea era ca in pom.xml aparea cu rosu <artifactId>spring-boot-starter-web</artifactId>, iar la compilare toate clasele care au in nume Spring, la build spunea ca nu exista
 * Dupa multe cautari, majoritatea spunand (aici eronat) ca e de la server-ul central, am ajuns si la ideea ca ar fi ceva legat de un proxy al Maven-ului
-* Am reinstalat IntelliJ si am sters .m2 din Users care este create de Maven
+* Am reinstalat IntelliJ si am sters .m2 din Users care este creat de Maven
 * Si acum functioneaza :)
 
 ## Pasii urmati
